@@ -53,7 +53,7 @@ const Navbar = (currentPage = "home") => {
               style={{ color: `${textColor}` }}
               className="text-xl sm:text-2xl font-bold hover:underline cursor-pointer  hover:font-bold"
             >
-              Blog-X
+              Peer-3
             </h1>
           </Link>
         </div>
